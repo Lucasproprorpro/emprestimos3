@@ -31,9 +31,8 @@ dependencies:
 
   # Recursos de dispositivo
   image_picker: ^1.1.2
-  geolocator: ^12.0.0
   url_launcher: ^6.3.0
-  share_plus: ^9.0.0
+  share_plus: ^12.0.2
   file_picker: ^8.0.0+1
   cross_file: ^0.3.4+2
 
